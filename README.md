@@ -6,3 +6,4 @@
 
 	### @javax4u
 		1. added new git key in mac
+		2. changed user name to javax4u
