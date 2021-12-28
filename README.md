@@ -1,1 +1,2 @@
-# thIS IS DAY .
+# cThis is week
+# thIS IS DAY 
