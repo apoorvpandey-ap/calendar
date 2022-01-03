@@ -19,3 +19,10 @@
 ## 01-Jan-2022
 	### @javax4u
 		.going to merge branch today
+
+## 03-Jan-2022
+	### @apoorv
+		1. On 1 on Jan I cant see the mergering operation so can we make it agin ?
+		2. After merging day branch into week branch , I am not able to see the ##day branch ?
+		3. Working on git video 
+		4. Can we do TODO list tommorow and makes a jan_first_half Task there 
