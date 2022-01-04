@@ -19,3 +19,8 @@
 ## 01-Jan-2022
 	### @javax4u
 		.going to merge branch today
+
+## 04-Jan-2022	
+	### @apoorv
+		learn how to create a branch through sourcetree 
+		mai agar branch banata to HEAD se banata lekin source tree se -1 yani HEAD 	se phel walw branch se bhi ban sakta hai
