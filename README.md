@@ -24,3 +24,11 @@
 	### @apoorv
 		learn how to create a branch through sourcetree 
 		mai agar branch banata to HEAD se banata lekin source tree se -1 yani HEAD 	se phel walw branch se bhi ban sakta hai
+
+## 05-jan-2022
+	### @apoorv
+		learn on git 	
+			How to delet branch permanently on Local and Remote
+			How to rename
+## 06-jan-2022			
+		meeting with mark 
