@@ -9,6 +9,7 @@
 		2. changed user name to javax4u
 
 ## 29-12-2021
+
 	### @apoorv
 		1. Install Docker on pc and fix docker issues
 
@@ -17,10 +18,22 @@
 		. attended meeting with turing
 
 ## 01-Jan-2022
+
 	### @javax4u
 		.going to merge branch today
 
 ## 04-Jan-2022	
+
 	### @apoorv
 		learn how to create a branch through sourcetree 
 		mai agar branch banata to HEAD se banata lekin source tree se -1 yani HEAD 	se phel walw branch se bhi ban sakta hai
+### 05-jan-202
+
+	### @apoorv
+		learn on git 	
+			How to delet branch permanently on Local and Remote
+			How to rename
+### 06-jan-2022	
+
+	### @apoorv
+		meeting with mark 
